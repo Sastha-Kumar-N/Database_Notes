@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL Create Database Statement.md",
+                "file": "Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MySQL Create Database Statement"
+              "title": "Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL Create Database Statement.md",
+                "file": "Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MySQL Create Database Statement"
+              "title": "Backlinks for Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL Create Database Statement.md",
+                "file": "Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MySQL Create Database Statement"
+              "title": "Outgoing links from Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL Create Database Statement.md",
+                "file": "Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MySQL Create Database Statement"
+              "title": "Outline of Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow"
             }
           }
         ]
@@ -183,13 +183,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "7e37604e8a4779be",
+  "active": "f075b2644334595f",
   "lastOpenFiles": [
+    "Logical Explanation of Indexing and Divide-and-Conquer Using a Recursion Tree.md",
+    "Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow.md",
+    "img/Pasted image 20251215112358.png",
+    "Logical Explanation of Stack, Heap, and Function Execution in Memory.md",
+    "A Logical Explanation of Internet Communication.md",
+    "MySQL Create Database Statement.md",
+    "Untitled",
     "img",
     "img/Pasted image 20251215111219.png",
     "img/Pasted image 20251215105957.png",
     "img/Pasted image 20251215105935.png",
-    "MySQL Create Database Statement.md",
     "Welcome.md"
   ]
 }
