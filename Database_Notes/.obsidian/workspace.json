@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow.md",
+                "file": "MySQL Database Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow"
+              "title": "MySQL Database Management"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow.md",
+                "file": "MySQL Database Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow"
+              "title": "Backlinks for MySQL Database Management"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow.md",
+                "file": "MySQL Database Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow"
+              "title": "Outgoing links from MySQL Database Management"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow.md",
+                "file": "MySQL Database Management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow"
+              "title": "Outline of MySQL Database Management"
             }
           }
         ]
@@ -185,12 +185,12 @@
   },
   "active": "f075b2644334595f",
   "lastOpenFiles": [
+    "Logical Explanation of Stack, Heap, and Function Execution in Memory.md",
     "Logical Explanation of Indexing and Divide-and-Conquer Using a Recursion Tree.md",
     "Logical Explanation of Hadoop, MapReduce, Daemons, and Job Execution Flow.md",
-    "img/Pasted image 20251215112358.png",
-    "Logical Explanation of Stack, Heap, and Function Execution in Memory.md",
     "A Logical Explanation of Internet Communication.md",
-    "MySQL Create Database Statement.md",
+    "MySQL Database Management.md",
+    "img/Pasted image 20251215112358.png",
     "Untitled",
     "img",
     "img/Pasted image 20251215111219.png",

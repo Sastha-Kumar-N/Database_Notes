@@ -17,3 +17,10 @@
 | ALTER TABLE table_name ADD(column1, column2, column3..)<br>Example: 1<br>ALTER TABLE students<br>ADD phone VARCHAR(15);<br>Example 2 <br>alter table students drop age;<br>                                   | This statement adds columns to the existing table.![[Pasted image 20251215111219.png]]     |
 | TRUNCATE TABLE students;                                                                                                                                                                                      | Delete data, keep structure                                                                |
 | ALTER TABLE students<br>RENAME TO student_details;<br><br>                                                                                                                                                    | Rename table                                                                               |
+Database User Creation
+
+| Command                                                                  | Function              |
+| ------------------------------------------------------------------------ | --------------------- |
+| CREATE USER 'nidheesh'@'localhost' IDENTIFIED BY 'Amrita@123';           | Create user           |
+| SELECT user, host FROM mysql.user;<br>                                   | Check user exists:    |
+| GRANT ALL PRIVILEGES ON amrita_practice.* TO 'nidheesh'@'localhost';<br> | FLUSH PRIVILEGES;<br> |
