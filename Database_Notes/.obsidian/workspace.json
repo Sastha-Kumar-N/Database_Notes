@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Block, OLTP, Data Types and Data Scales.md",
+                "file": "Large Object Data Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database Block, OLTP, Data Types and Data Scales"
+              "title": "Large Object Data Types"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "f075b2644334595f",
   "lastOpenFiles": [
-    "ODBC and JDBC.md",
     "Database Block, OLTP, Data Types and Data Scales.md",
+    "Large Object Data Types.md",
+    "ODBC and JDBC.md",
     "MySQL Database Management.md",
     "Logical Explanation of Stack, Heap, and Function Execution in Memory.md",
     "A Logical Explanation of Internet Communication.md",
